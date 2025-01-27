@@ -1,7 +1,0 @@
-git clone https://github.com/yourusername/practical-exam-health-data.git
-cd practical-exam-health-data
-mkdir scripts data
-nano scripts/merge_all_data.py
-git add .
-git commit -m "Initial folder structure and files"
-git push origin main
